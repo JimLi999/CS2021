@@ -27,3 +27,6 @@
 
 # 4.電腦配置
 ![PC Build](./windows.PNG)
+
+# 5.Google Colab
+![colab screenshot](./colab.PNG)
