@@ -23,6 +23,7 @@
 
 # 3.申請github
   Already have a github account
+  ![Proof](./github.PNG)
 
 # 4.電腦配置
 ![PC Build](./windows.PNG)
