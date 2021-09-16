@@ -33,13 +33,13 @@ Valid options are:
  -nosalt             Do not use salt in the KDF
  -debug              Print debug info       //顯示調適訊息
  -a                  Base64 encode/decode, depending on encryption flag     //base64編解碼,取決於加密旗標
- -base64             Same as option -a
+ -base64             Same as option -a      //與-a指令相符
  -A                  Used with -[base64|a] to specify base64 buffer as a single line
- -bufsize val        Buffer size
- -k val              Passphrase
- -kfile infile       Read passphrase from file
- -K val              Raw key, in hex
- -S val              Salt, in hex
+ -bufsize val        Buffer size        //緩衝區大小
+ -k val              Passphrase     //密碼
+ -kfile infile       Read passphrase from file      //從檔案讀取密碼
+ -K val              Raw key, in hex        //以16進制顯示原始金鑰
+ -S val              Salt, in hex       
  -iv val             IV in hex
  -md val             Use specified digest to create a key from the passphrase
  -iter +int          Specify the iteration count and force use of PBKDF2
