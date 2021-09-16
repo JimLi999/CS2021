@@ -16,3 +16,4 @@
 ```
 openssl enc -help
 ```
+![result](./opensslEncryptCommands.PNG)
