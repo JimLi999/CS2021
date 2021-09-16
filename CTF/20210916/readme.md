@@ -12,3 +12,7 @@
 !uname -a
 ```
 ![result](./opensslchecklinuxversion.PNG)
+## list all OpenSSL enc commands
+```
+openssl enc -help
+```
