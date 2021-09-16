@@ -101,3 +101,8 @@ Valid options are:
 # Pycryptodome
 - [Github](https://github.com/Legrandin/pycryptodome)
 - [Install library]
+## Install library
+```
+!pip install pycryptodome
+``` 
+![result](./pycryptodome.PNG)
