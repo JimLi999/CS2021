@@ -9,4 +9,4 @@
 ```
 !uname -a
 ```
-![result](./openssl check linux version.PNG)
+![result](./opensslchecklinuxversion.PNG)
