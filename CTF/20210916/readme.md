@@ -100,7 +100,7 @@ Valid options are:
 
 # Pycryptodome
 - [Github](https://github.com/Legrandin/pycryptodome)
-- [Install library]
+- [Install library](https://github.com/JimLi999/CS2021/tree/main/CTF/20210916#install-library)
 ## Install library
 ```
 !pip install pycryptodome
