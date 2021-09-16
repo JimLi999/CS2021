@@ -5,3 +5,8 @@
 !openssl help
 ```
 ![result](./opensslCommands.PNG)
+## check linux version
+```
+!uname -a
+```
+![result](./openssl check linux version.PNG)
