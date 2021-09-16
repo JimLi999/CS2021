@@ -2,6 +2,7 @@
 - [github](https://github.com/openssl/openssl)
 - [Commands](https://github.com/JimLi999/CS2021/tree/main/CTF/20210916#list-all-openssl-commands)
 - [Check Linux version](https://github.com/JimLi999/CS2021/tree/main/CTF/20210916#check-linux-version)
+- [List all OpenSSL enc commands](https://github.com/JimLi999/CS2021/tree/main/CTF/20210916#list-all-openssl-enc-commands)
 ## list all OpenSSL commands
 ```
 !openssl help
