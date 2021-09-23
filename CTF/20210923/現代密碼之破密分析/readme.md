@@ -84,3 +84,4 @@ b64 = codecs.encode(codecs.decode(hex, 'hex'), 'base64').decode()
 b64
 ```
 ![result](./Convert hex to base64.PNG)
+
