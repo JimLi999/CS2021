@@ -6,6 +6,7 @@
 ```python
 pip install pycrypto
 ```
+! [result](./pycrypto.PNG)
 # Module number
 - [Module number](https://pythonhosted.org/pycrypto/Crypto.Util.number-module.html)
 # Get Greatest Common Divisor by pycrypto
