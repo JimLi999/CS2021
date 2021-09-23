@@ -16,5 +16,6 @@ from Crypto.Util.number import GCD
 
 GCD(12,18)
 ```
+![result](./getGCD.PNG)
 
 
