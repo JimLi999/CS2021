@@ -26,7 +26,9 @@ GCD(12,18)
 ![result](./getGCD.PNG)
 
 ## AES對稱式加解密
--[AES Encrypt]()
+- [AES Encrypt](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923#aes-encrypt)
+- [AES Decrypt](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923#aes-decrypt)
+
 ### AES Encrypt
 ```python
 
