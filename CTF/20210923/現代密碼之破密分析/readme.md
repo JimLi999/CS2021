@@ -1,6 +1,7 @@
 # 破密分析常用工具
 - [Online tools](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923/%E7%8F%BE%E4%BB%A3%E5%AF%86%E7%A2%BC%E4%B9%8B%E7%A0%B4%E5%AF%86%E5%88%86%E6%9E%90#%E4%BD%BF%E7%94%A8%E7%B7%9A%E4%B8%8A%E5%B7%A5%E5%85%B7---%E8%B3%AA%E5%9B%A0%E6%95%B8%E5%88%86%E8%A7%A3)
 - [libnum](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923/%E7%8F%BE%E4%BB%A3%E5%AF%86%E7%A2%BC%E4%B9%8B%E7%A0%B4%E5%AF%86%E5%88%86%E6%9E%90#libnum-%E5%A5%97%E4%BB%B6)
+- [gmpy2](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923/%E7%8F%BE%E4%BB%A3%E5%AF%86%E7%A2%BC%E4%B9%8B%E7%A0%B4%E5%AF%86%E5%88%86%E6%9E%90#gmpy2)
 
 ## 使用線上工具 == > 質因數分解    
 - [factordb](http://factordb.com/)
@@ -52,20 +53,21 @@ print(libnum.n2s(number))
 ## gmpy2
 
 - [gmpy2’s documentation](https://gmpy2.readthedocs.io/en/latest/)
+- [Install gmpy2]()
 
-### google Colab 安裝 [GMPY2 doesn't install](https://stackoverflow.com/questions/50474091/gmpy2-doesnt-install)
+### Install gmpy2
+GMPY2 doesn't install
+-[solution](https://stackoverflow.com/questions/50474091/gmpy2-doesnt-install)
+
 ```
 !apt install libmpc-dev
 !pip3 install --user gmpy2==2.1.0a2
 ```
-## conda安裝
-```
-conda install gmpy2
-```
+![result](./gmpy2_install.PNG)
 
-# 學習資源
+# Homework
 
-- 練習作業: 完成 https://cryptopals.com/ 的八道題組
+- compelet https://cryptopals.com/ 
 
 ```python
 
