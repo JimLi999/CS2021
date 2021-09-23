@@ -1,3 +1,7 @@
+# 目錄
+- [破密分析常用工具](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923/%E7%8F%BE%E4%BB%A3%E5%AF%86%E7%A2%BC%E4%B9%8B%E7%A0%B4%E5%AF%86%E5%88%86%E6%9E%90#%E7%A0%B4%E5%AF%86%E5%88%86%E6%9E%90%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7)
+- [Homeworks](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923/%E7%8F%BE%E4%BB%A3%E5%AF%86%E7%A2%BC%E4%B9%8B%E7%A0%B4%E5%AF%86%E5%88%86%E6%9E%90#homeworks)
+
 # 破密分析常用工具
 - [Online tools](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923/%E7%8F%BE%E4%BB%A3%E5%AF%86%E7%A2%BC%E4%B9%8B%E7%A0%B4%E5%AF%86%E5%88%86%E6%9E%90#%E4%BD%BF%E7%94%A8%E7%B7%9A%E4%B8%8A%E5%B7%A5%E5%85%B7---%E8%B3%AA%E5%9B%A0%E6%95%B8%E5%88%86%E8%A7%A3)
 - [libnum](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923/%E7%8F%BE%E4%BB%A3%E5%AF%86%E7%A2%BC%E4%B9%8B%E7%A0%B4%E5%AF%86%E5%88%86%E6%9E%90#libnum-%E5%A5%97%E4%BB%B6)
@@ -57,7 +61,7 @@ print(libnum.n2s(number))
 
 ### Install gmpy2
 GMPY2 doesn't install
-- [solution](https://stackoverflow.com/questions/50474091/gmpy2-doesnt-install)
+- [solution](https://stackoverflow.com/questions/69178324/how-to-install-gmpy2-on-google-colab)
 
 ```
 !apt install libmpc-dev
@@ -65,7 +69,7 @@ GMPY2 doesn't install
 ```
 ![result](./gmpy2_install.PNG)
 
-# Homework
+# Homeworks
 
 - complete https://cryptopals.com/ 
 
