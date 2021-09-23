@@ -85,3 +85,31 @@ b64
 ```
 ![result](./Convert_hex_to_base64.PNG)
 
+## Fixed XOR
+[souce](https://medium.com/analytics-vidhya/crypto-basics-fixed-xor-implementation-python-9cfba54f4661)
+
+```python
+value1="1c0111001f010100061a024b53535009181c"
+value2="686974207468652062756c6c277320657965"
+
+#convert hex to int then to binary
+bin_value1=bin(int(value1,16))[2:] 
+bin_value2=bin(int(value2,16))[2:]
+
+#check which value length is longer
+desired_length = len(bin_value1) if len(bin_value1) > len(bin_value2) else len(bin_value2)
+
+#make sure two value length are same
+bin_value1 = bin_value1.zfill(desired_length)
+bin_value2 = bin_value2.zfill(desired_length)
+
+#XOR
+result = [int(bit1) ^ int(bit2) for bit1,bit2 in zip(bin_value1,bin_value2)]
+
+#list to binary
+string_result = "".join([str(bits) for bits in result])
+
+#binary to hex
+codecs.encode(libnum.b2s(string_result),"hex")
+```
+![result](./Fixed_XOR.PNG)
