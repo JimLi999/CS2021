@@ -1,7 +1,7 @@
 ## 3_1_2_python現代密碼實測_pycrypto
 - [Install pycrypto](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923#install-pycrpto)
 - [Module number](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923#module-number)
-- [Get Greatest Common Divisor](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923#get-greatest-common-divisor)
+- [Get Greatest Common Divisor by pycrypto](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923#get-greatest-common-divisor-by-pycrypto)
 # Install pycrypto
 ```python
 pip install pycrypto
