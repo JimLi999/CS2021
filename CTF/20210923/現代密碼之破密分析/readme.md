@@ -57,7 +57,7 @@ print(libnum.n2s(number))
 
 ### Install gmpy2
 GMPY2 doesn't install
--[solution](https://stackoverflow.com/questions/50474091/gmpy2-doesnt-install)
+- [solution](https://stackoverflow.com/questions/50474091/gmpy2-doesnt-install)
 
 ```
 !apt install libmpc-dev
