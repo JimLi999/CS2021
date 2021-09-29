@@ -60,7 +60,7 @@ print(libnum.n2s(number))
 - [Install gmpy2](https://github.com/JimLi999/CS2021/tree/main/CTF/20210923/%E7%8F%BE%E4%BB%A3%E5%AF%86%E7%A2%BC%E4%B9%8B%E7%A0%B4%E5%AF%86%E5%88%86%E6%9E%90#install-gmpy2)
 
 ### Install gmpy2
-GMPY2 doesn't install
+GMPY2 can't install
 - [solution](https://stackoverflow.com/questions/69178324/how-to-install-gmpy2-on-google-colab)
 
 ```
