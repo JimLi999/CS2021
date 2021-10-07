@@ -13,3 +13,10 @@ MITRE DEfend(2021)
 MITRE ENgage(2021)
 ZERO trust network
 ```
+## 資安威脅
+- IOT security
+- DDOS
+- [什麼是 DDoS 攻擊] (https://www.cloudflare.com/zh-tw/learning/ddos/what-is-a-ddos-attack/)
+- 
+- APT
+- Ransomeware
