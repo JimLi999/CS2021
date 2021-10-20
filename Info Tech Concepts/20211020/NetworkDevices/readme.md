@@ -11,7 +11,7 @@
   - 連結的裝置工作在同一網段
   - 訊號之間碰撞機會大
   - 訊號可被竊聽
-  - 現已被[交換器(Switch)](#交換器 Switch)取代
+  - 現已被 [交換器(Switch)](#交換器-switch) 取代
 ## L2 Devices
 ### [交換器 Switch](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8)
   - 使用MAC位址轉發資料
