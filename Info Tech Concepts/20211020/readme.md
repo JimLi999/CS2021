@@ -1,3 +1,3 @@
 ## About
-- OSI
-- TCP/IP
+- OSI model
+- TCP/IP model
