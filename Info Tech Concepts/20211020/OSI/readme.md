@@ -8,6 +8,7 @@
 ### 常見裝置
   - [集線器](https://github.com/JimLi999/CS2021/tree/main/Info%20Tech%20Concepts/20211020/NetworkDevices#%E9%9B%86%E7%B7%9A%E5%99%A8-hub)
   - [中繼器](https://github.com/JimLi999/CS2021/tree/main/Info%20Tech%20Concepts/20211020/NetworkDevices#%E4%B8%AD%E7%B9%BC%E5%99%A8-repeater)
+
 ## L2 [資料連結層](https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82) [Data Link Layer](https://en.wikipedia.org/wiki/Data_link_layer)
   - transfers data between nodes on a network segment across the physical layer 在網段上的節點與實體層之間傳輸數據
   - 兩個網路實體之間提供資料鏈路連接的建立、維持和釋放管理
@@ -26,6 +27,7 @@
   - [交換器](https://github.com/JimLi999/CS2021/tree/main/Info%20Tech%20Concepts/20211020/NetworkDevices#%E4%BA%A4%E6%8F%9B%E5%99%A8-switch)
   - [網卡](https://zh.wikipedia.org/wiki/%E7%BD%91%E5%8D%A1)
   - [橋接器](https://zh.wikipedia.org/wiki/%E6%A9%8B%E6%8E%A5%E5%99%A8)
+  
 ## L3 [網路層](https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E5%B1%82) [Network layer](https://en.wikipedia.org/wiki/Network_layer)
   - 提供路由和尋址的功能
 ### 功能
@@ -35,4 +37,5 @@
     - 編址方案
       - [IPv4](https://zh.wikipedia.org/wiki/IPv4)
       - [IPv6](https://zh.wikipedia.org/wiki/IPv6)
-  - 路由:
+  - 路由
+    - "不同的網路"之間相互通訊
