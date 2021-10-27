@@ -32,7 +32,7 @@
   - 定址
     - 使用IP位址來唯一標識網際網路上的裝置
     - 依靠IP位址進行相互通訊
-      - 編址方案
-        - [IPv4](https://zh.wikipedia.org/wiki/IPv4)
-        - [IPv6](https://zh.wikipedia.org/wiki/IPv6)
+    - 編址方案
+      - [IPv4](https://zh.wikipedia.org/wiki/IPv4)
+      - [IPv6](https://zh.wikipedia.org/wiki/IPv6)
   - 路由:
