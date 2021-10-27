@@ -24,3 +24,5 @@
   - [Wi-Fi](https://zh.wikipedia.org/wiki/Wi-Fi) ([IEEE 802.11](https://zh.wikipedia.org/wiki/IEEE_802.11))
 ### 常見裝置
   - [交換器](https://github.com/JimLi999/CS2021/tree/main/Info%20Tech%20Concepts/20211020/NetworkDevices#%E4%BA%A4%E6%8F%9B%E5%99%A8-switch)
+  - [網卡](https://zh.wikipedia.org/wiki/%E7%BD%91%E5%8D%A1)
+  - [橋接器](https://zh.wikipedia.org/wiki/%E6%A9%8B%E6%8E%A5%E5%99%A8)
