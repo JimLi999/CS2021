@@ -9,11 +9,14 @@
   - 可視作有多個埠的中繼器
   - 連接多條雙絞線或光纖
   - 連結的裝置工作在同一網段
+  - 現已被 [交換器(Switch)](#交換器-switch) 取代
 #### Cons:
   - 訊號之間碰撞機會大
   - 訊號可被竊聽
-  - 現已被 [交換器(Switch)](#交換器-switch) 取代
 ## L2 Devices
 ### [交換器 Switch](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8)
   - 使用[MAC位址](https://zh.wikipedia.org/wiki/MAC%E5%9C%B0%E5%9D%80)([Media Access Control Address](https://en.wikipedia.org/wiki/MAC_address))轉發資料
   - 只將資料轉發到需要接收的裝置
+## L3 Devices
+### [路由器 Router](https://zh.wikipedia.org/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8)
+  - 決定封包從來源端到目的端所經過的路徑（host到host之間的傳輸路徑）
