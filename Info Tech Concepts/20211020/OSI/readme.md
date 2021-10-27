@@ -46,3 +46,18 @@
 ### 常見裝置
   - [路由器](https://github.com/JimLi999/CS2021/tree/main/Info%20Tech%20Concepts/20211020/NetworkDevices#%E8%B7%AF%E7%94%B1%E5%99%A8-router)
   - [三層交換器](https://en.wikipedia.org/wiki/Multilayer_switch#Layer-3_switching)
+## L4 [傳輸層](https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E5%B1%82) [Transport layer](https://en.wikipedia.org/wiki/Transport_layer)
+  - 應用行程提供端到端的通訊服務
+  - 提供面向連接的資料流支援、可靠性、流量控制、多路復用等服務
+### 服務
+  - 通過傳輸層協定的編程介面傳遞給應用行程
+    - [連接導向式通訊](https://zh.wikipedia.org/wiki/%E9%80%A3%E6%8E%A5%E5%B0%8E%E5%90%91%E5%BC%8F%E9%80%9A%E8%A8%8A)
+    - 相同次序交付
+    - [可靠性](https://zh.wikipedia.org/wiki/%E5%8F%AF%E9%9D%A0%E6%80%A7_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C))
+    - [流量控制](https://zh.wikipedia.org/wiki/%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6_(%E6%95%B0%E6%8D%AE))
+    - [擁塞避免](https://zh.wikipedia.org/wiki/%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6)
+    - [多路復用](https://zh.wikipedia.org/wiki/%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8)
+### 協定
+  - [TCP](https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE)
+  - [UDP](https://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%8D%8F%E8%AE%AE)
+  - [SPX](https://zh.wikipedia.org/wiki/SPX)
