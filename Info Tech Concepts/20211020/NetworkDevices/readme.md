@@ -1,5 +1,5 @@
 # Network Devices
-![網路設備Network Devices](./pic/networkdevices.png)
+![網路設備Network Devices](https://github.com/JimLi999/CS2021/blob/main/Info%20Tech%20Concepts/20211020/pic/networkdevices.png)
 
 ## L1 Devices
 ### [中繼器 Repeater](https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%BB%A7%E5%99%A8)
