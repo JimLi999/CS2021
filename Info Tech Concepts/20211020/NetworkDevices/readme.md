@@ -15,6 +15,7 @@
   - 訊號可被竊聽
 ## L2 Devices
 ### [交換器 Switch](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E4%BA%A4%E6%8F%9B%E5%99%A8)
+  - 連接兩個個別網路的裝置
   - 使用[MAC位址](https://zh.wikipedia.org/wiki/MAC%E5%9C%B0%E5%9D%80)([Media Access Control Address](https://en.wikipedia.org/wiki/MAC_address))轉發資料
   - 只將資料轉發到需要接收的裝置
 ## L3 Devices
